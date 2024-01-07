@@ -17,8 +17,6 @@
 # 💞️ I’m looking to collaborate on ...
 reade proshore file now👇👇
 https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk
-# 📫 How to reach me ...
-![RU-Youtube](https://github.com/RUI-com/RUI-com/assets/139192231/97d097c5-a3f1-41f9-9f7d-11e53807f00b)
 
 <!---
 RUI-com/RUI-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
