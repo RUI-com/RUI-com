@@ -1,5 +1,7 @@
 # RUI © | ° Company
-![FB_IMG_17046720719785652](https://github.com/RUI-com/RUI-com/assets/139192231/b6e10acf-e3d7-4559-976d-26f6eaec6b42)
+![wefw@2x](https://github.com/RUI-com/RUI-com/assets/139192231/7e45fbd5-e2f2-4e4a-bbe4-1474a3ab2a27)
+![Facebook Post – 1@2x](https://github.com/RUI-com/RUI-com/assets/139192231/38dc10c8-95a6-4b10-950c-6b6609c1c9a0)
+
 
 # 👀 I’m interested in ...
  + Follow RUI.COM on Telegram: ⁨https://t.me/RUI_org⁩
