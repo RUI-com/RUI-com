@@ -1,6 +1,4 @@
 # 🚀 RUI © | ° Company
-
-![RUI Banner](https://github.com/RUI-com/RUI-com/assets/139192231/7e45fbd5-e2f2-4e4a-bbe4-1474a3ab2a27)  
 ![RUI Image 5](https://github.com/user-attachments/assets/ff9464d8-4cdf-4400-80d6-f65db52bef5f)  
 ![Facebook Post](https://github.com/RUI-com/RUI-com/assets/139192231/38dc10c8-95a6-4b10-950c-6b6609c1c9a0)
 
