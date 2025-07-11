@@ -44,8 +44,8 @@
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/afd9a8e7-e3ae-4735-ad7a-7c6194f771a4" />
 
 
-## 💞️ We’re Looking to Collaborate On
-📄 **Read our latest project report (Proshore file):**  
+## 📄 **Read our latest project report (Proshore file):**  
+
 <a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="136" height="200" alt="image" src="https://github.com/user-attachments/assets/0a8e37a0-8650-4c25-b6fe-5d010b82e75c" />
 </a>
 
