@@ -4,7 +4,7 @@
 ## Card Company
  <div style="display: flex;">
   <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/b1e2e113-0d5c-4303-8bd7-92db3c4b8b2e" />
-With a comfortable and adaptable case so that you can store it whenever you want, and keep your durability forever.
+<h5>With a comfortable and adaptable case so that you can store it whenever you want, and keep your durability forever.</h5>
 </div>
 </br>
 <a href="https://drive.google.com/file/d/1po1UK6X5gtRBYgZFFS-aoTuU27VGRmTi/view?usp=drivesdk"><img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/d3c6fab8-ed06-446c-b9ab-51515753c5d8" />
