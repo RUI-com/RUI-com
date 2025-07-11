@@ -1,6 +1,11 @@
 # <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b75e09e8-9a47-4c86-895f-472534ad71df" /> © 
 <img width="2021" height="976" alt="freepik__enhance__16533" src="https://github.com/user-attachments/assets/57282e85-51db-4835-af45-1bb757c3a77d" />
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/180e0912-476f-4a64-9991-f4b73901c84e" />
+
+## Card Company
+<img width="493" height="375" alt="image" src="https://github.com/user-attachments/assets/b1e2e113-0d5c-4303-8bd7-92db3c4b8b2e" /></br>
+With a comfortable and adaptable case so that you can store it whenever you want, and keep your durability forever.</br>
+<a href="https://drive.google.com/file/d/1po1UK6X5gtRBYgZFFS-aoTuU27VGRmTi/view?usp=drivesdk"><img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/d3c6fab8-ed06-446c-b9ab-51515753c5d8" />
+</a>
 
 ---
 
