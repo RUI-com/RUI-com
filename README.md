@@ -25,12 +25,18 @@
 ## Servers
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f230838b-6e6c-4b01-bca3-d95077cce5a0" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/87095fe5-2a4f-49cf-b1f6-9dad48da16b6" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/5db1c4fd-5ee7-4ede-8d2d-68ba79711891" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/83aa86ed-362b-44e8-a21d-587e0431747b" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/ed698790-e677-4104-9887-ccf3eb2f1ff6" />
 
+## Database
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/8075b603-1311-4e64-9061-dc3bb1559edf" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/4e2212c4-0076-4f42-813c-821833178271" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/c9c7ff37-99cc-4083-b085-0d8db7401065" />
+
+
+
 
 ## Tools
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/a4409203-c4eb-4a9e-8b43-0b8d8f86ad8d" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6821ebbe-fbcf-4466-8094-bade0a0ef21a" />
 
 ## UI UX
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/973d77c5-7b83-4f18-8235-938e7e9b3db9" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/afd9a8e7-e3ae-4735-ad7a-7c6194f771a4" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/94f49304-a719-4b91-8e51-fdbe31ecb02a" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/afd9a8e7-e3ae-4735-ad7a-7c6194f771a4" />
 
 
 ## 💞️ We’re Looking to Collaborate On
