@@ -1,4 +1,4 @@
-# 🚀 RUI © | ° Company
+# <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b75e09e8-9a47-4c86-895f-472534ad71df" /> RUI © | ° Company
 <img width="2021" height="976" alt="freepik__enhance__16533" src="https://github.com/user-attachments/assets/57282e85-51db-4835-af45-1bb757c3a77d" />
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/180e0912-476f-4a64-9991-f4b73901c84e" />
 
@@ -41,7 +41,8 @@
 
 ## 💞️ We’re Looking to Collaborate On
 📄 **Read our latest project report (Proshore file):**  
-👉 <a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3fbf9b0b-1c90-49cd-b4dc-de1e03bd15dc" /></a>
+<a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="136" height="158" alt="image" src="https://github.com/user-attachments/assets/0a8e37a0-8650-4c25-b6fe-5d010b82e75c" />
+</a>
 
 ---
 
