@@ -41,7 +41,7 @@
 
 ## 💞️ We’re Looking to Collaborate On
 📄 **Read our latest project report (Proshore file):**  
-<a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="136" height="158" alt="image" src="https://github.com/user-attachments/assets/0a8e37a0-8650-4c25-b6fe-5d010b82e75c" />
+<a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="136" height="200" alt="image" src="https://github.com/user-attachments/assets/0a8e37a0-8650-4c25-b6fe-5d010b82e75c" />
 </a>
 
 ---
