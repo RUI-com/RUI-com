@@ -1,4 +1,4 @@
-# <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b75e09e8-9a47-4c86-895f-472534ad71df" /> RUI © | ° Company
+# <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b75e09e8-9a47-4c86-895f-472534ad71df" /> © 
 <img width="2021" height="976" alt="freepik__enhance__16533" src="https://github.com/user-attachments/assets/57282e85-51db-4835-af45-1bb757c3a77d" />
 <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/180e0912-476f-4a64-9991-f4b73901c84e" />
 
