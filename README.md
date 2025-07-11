@@ -3,7 +3,7 @@
 
 ## Card Company
 <div style="display:flex;">
-  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b1e2e113-0d5c-4303-8bd7-92db3c4b8b2e" />
+  <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/b1e2e113-0d5c-4303-8bd7-92db3c4b8b2e" />
 With a comfortable and adaptable case so that you can store it whenever you want, and keep your durability forever.
 </div>
 </br>
