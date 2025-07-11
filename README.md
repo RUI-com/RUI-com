@@ -1,6 +1,6 @@
 # 🚀 RUI © | ° Company
 <img width="2021" height="976" alt="freepik__enhance__16533" src="https://github.com/user-attachments/assets/912c8a0f-f3d1-4c0f-b853-c3a76ba36ead" />
-<img width="2021" height="976" alt="freepik__enhance__16533" src="[https://github.com/user-attachments/assets/912c8a0f-f3d1-4c0f-b853-c3a76ba36ead](https://github.com/user-attachments/assets/621cca30-6e69-4f17-be28-4664fee02588)" />
+![502583628_1193755786097158_6346230225497175548_n](https://github.com/user-attachments/assets/a1fdfe7a-4b56-4dbb-830a-d3d649c61b3d)
 
 
 ---
