@@ -29,7 +29,8 @@
 
 ---
 Tech Stack:
-cpp logo python logo Dart logo flutter logo bloc logo hive logo firebase logo supabase logo mysql logo html logo css logo js logo git logo github logo postman logo VScode logo linux logo figma logo xd logo ps logo ai logo notion logo
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bd9b40d1-e8ae-4b4a-b034-38151088bed2" />
+
 
 
 ## 💞️ We’re Looking to Collaborate On
