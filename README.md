@@ -9,13 +9,10 @@
 ✨ Building powerful applications and professional websites.
 
 🔗 **Follow RUI.COM on:**  
-- <a href="https://t.me/RUI_org"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/25381e0e-acf5-4ee3-afd9-5d2dda112187" /></a>
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/91de0443-c4d3-4ccb-8adb-56c26e79aeb7" />
- [YouTube](https://www.youtube.com/@RUI-Company)  
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/eb27c859-e6e9-46f4-a3ef-acab034e260b" />
- [LinkedIn](https://www.linkedin.com/in/rui-org-026a70282)  
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ea9e65bc-1518-47c9-9c2c-c311d6244c91" />
- [Instagram](https://instagram.com/rui_org)
+<a href="https://t.me/RUI_org"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/25381e0e-acf5-4ee3-afd9-5d2dda112187" /></a>
+<a href="https://www.youtube.com/@RUI-Company"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/91de0443-c4d3-4ccb-8adb-56c26e79aeb7" /></a>
+<a href="https://www.linkedin.com/in/rui-org-026a70282"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/eb27c859-e6e9-46f4-a3ef-acab034e260b" /></a>
+<a href="https://instagram.com/rui_org"><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ea9e65bc-1518-47c9-9c2c-c311d6244c91" /></a>
 
 ---
 ## Frontend
@@ -36,11 +33,9 @@
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/973d77c5-7b83-4f18-8235-938e7e9b3db9" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/afd9a8e7-e3ae-4735-ad7a-7c6194f771a4" />
 
 
-
-
 ## 💞️ We’re Looking to Collaborate On
 📄 **Read our latest project report (Proshore file):**  
-👉 [View the file](https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk)
+👉 <a href="https://drive.google.com/file/d/1JKLFSRR0fTaq-uBwtS45DA8dAQBP1Pd-/view?usp=drivesdk"><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3fbf9b0b-1c90-49cd-b4dc-de1e03bd15dc" /></a>
 
 ---
 
