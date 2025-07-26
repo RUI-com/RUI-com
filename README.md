@@ -52,7 +52,7 @@
 ---
 
 ## 🌍 Official Websites
-- [🌐 RUI Company Website 1](http://rui-company-pro.surge.sh/)
+- [🌐 RUI Company Website 1](https://rui-company.vercel.app)
 - [🌐 RUI Company Website 2](https://eng-rawan-abd-alrazak-next-js-website-main.vercel.app/)
 
 ---
