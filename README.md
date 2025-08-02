@@ -1,5 +1,5 @@
 # <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b75e09e8-9a47-4c86-895f-472534ad71df" /> © 
-![1447-02-05_20 49 56_5a88e328](https://github.com/user-attachments/assets/2e72395a-0c93-4b32-9ef0-088f9b1d8094)
+![f341ddea-6e17-4d5f-abcf-f683233d46da_seed709194852 (1)](https://github.com/user-attachments/assets/81197d4e-21a2-45d2-90bc-787387be353a)
 
 ## Card Company
   <img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/b1e2e113-0d5c-4303-8bd7-92db3c4b8b2e" />
